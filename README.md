@@ -1,4 +1,4 @@
-# CSE-C-Codes
+# <p align="center">CSE-C-Codes</p>
 
 This repository contains the codes of CSE that covers the basic programs which are coded in C Language and some programmes on Raptor. I have used Online Compiler ```Ideone.com``` to code most of the programs.
 
